@@ -1,6 +1,7 @@
 *.log
 *.bak
 .idea/
+.gradle/
 out/
 .DS_Store
 
