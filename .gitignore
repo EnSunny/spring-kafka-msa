@@ -1,4 +1,6 @@
 *.log
 *.bak
 .idea/
+out/
 .DS_Store
+
